@@ -5,7 +5,7 @@ This folder contains notebooks and datasets for the model development stage.
 
 ### Using Model Pipelines
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/mlopsv2/blob/main/dev/ML_Pipeline.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aravind-prabha/scripts_text_analytics/blob/main/AJ/LR_+_CV_for_Text_Classification.ipynb)
 
 ### Simulating Prediction System
 
