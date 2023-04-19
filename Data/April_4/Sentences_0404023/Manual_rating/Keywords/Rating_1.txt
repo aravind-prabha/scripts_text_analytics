@@ -1,0 +1,8 @@
+staff 		: rude, inefficient, bad customer support
+TSA			: not according to guidelines, 
+restaurants 	: sundays not open past 8 pm, close about 3.
+busy			: busy, wait times, delay
+help			: no wheelchair access
+checkin		: waiting time
+security process : sickening
+
