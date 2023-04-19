@@ -1,8 +1,13 @@
-staff 		: rude, inefficient, bad customer support
-TSA			: not according to guidelines, 
-restaurants 	: sundays not open past 8 pm, close about 3.
-busy			: busy, wait times, delay
+staff 		: rude, inefficient, bad customer support, horrible
+TSA			: not according to guidelines, logistically inefficient, long, dysfunctional
+restaurants 	: sundays not open past 8 pm, close about 3, everything closed, inefficient service
+busy			: busy, wait times, delay, crowded, covid, cowid
 help			: no wheelchair access
 checkin		: waiting time
-security process : sickening
+security process 	: sickening
+parking		: stolen, demand, infrastructure sucks
+cleanliness		: stinks, dirty
+misc			: wrong signs
+bathrooms 		: cleanliness, dirty, no paper towels, 
+
 
