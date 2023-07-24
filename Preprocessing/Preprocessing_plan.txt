@@ -1,2 +1,30 @@
-1. Remove (Translated by Google) ,(Original) and the tokens is in the right of (Original).
-2. 
+1. remove duplicates
+2. Remove (Translate by Google)
+3. Remove (Original) and everything to the right of it
+4. Extract emojis to a new column , replace the emojis in the comment with their respective names
+5. A new column with the sentiment score of the emoji ( taken from sentiment intensity analyzer : this can be improved I feel)
+6. Remove html stuff , http, https , wwww links etc.
+7. Expand chat words
+8. spell check
+9. remove twitter handles , unnecessary symbols etc.
+10. convert to lower case after all steps for better vectorization / embedding
+
+ 
+
+Features added :
+1. Emoji polarity score
+2. count of Capital letter words used
+3. Yelling alert to check if the reviewer is yelling
+4. replacing * with bad
+5. aded a profanity score to measure the degree of profanity in the reviewer
+6. added additional sentiment using a pretrained model ( ex: sia ). add polarity and subjectivity of the sentence as new columns
+7. Length of the review (number of characters)
+8. Number of words
+
+ 
+
+Future scope :
+
+ 
+
+7. Relevance score and speicificity score ( These are not added to the model yet, will have to add, but will explode the model )*
